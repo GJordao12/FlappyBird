@@ -1,2 +1,2 @@
-# FlapyBird
-Jogo do FlapyBird
+# FlappyBird
+Jogo do FlapyBird em Java
