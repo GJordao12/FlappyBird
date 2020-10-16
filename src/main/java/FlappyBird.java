@@ -1,8 +1,3 @@
-
-/**
- *
- * @author Jordão
- */
 import java.util.Set;
 import java.util.ArrayList;
 import java.util.Random;
