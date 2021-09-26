@@ -1,4 +1,4 @@
 # FlappyBird
 
-* Description: The famous Flappy Bird game
+* Description: The famous Flappy Bird Game
 * Language: Java
