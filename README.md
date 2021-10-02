@@ -1,4 +1,3 @@
 # FlappyBird
-
-* Description: The famous Flappy Bird Game
-* Language: Java
+* **Languages and Tools:** Java
+* **Description:** The famous Flappy Bird Game
